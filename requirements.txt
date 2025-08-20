@@ -1,0 +1,11 @@
+scikit-learn ==1.6.0
+tensorflow==2.17.1
+numpy 
+pandas ==2.1.3
+matplotlib
+seaborn 
+pandas
+keras 
+scipy
+flask
+scikeras 
